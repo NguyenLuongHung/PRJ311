@@ -1,0 +1,4 @@
+B07|Hung|Male|1000|20|1020
+B02|Khanh|Female|2000|20|2020
+B03|Linh|Male|2500|50|2550
+B09|Ly|Male|3000|60|3060
